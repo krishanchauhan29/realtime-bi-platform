@@ -3,7 +3,7 @@
 A full-stack Real-Time Business Intelligence Platform that connects live market data, lets you upload any dataset, and delivers instant analytics — forecasting, anomaly detection, clustering, maps, SQL queries, MongoDB integration, and downloadable reports.
 
 ## 🔴 Live Demo
-👉 [Click here to try the live app]([STREAMLIT_LINK_YAHAN_PASTE_KARO])
+👉 [Click here to try the live app](https://realtime-bi-platform292003.streamlit.app/)
 
 ## ✨ Features
 
